@@ -16,13 +16,22 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3751ac7d-9e43-44d8-a80e-7b68bda473e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    <list default="true" id="3751ac7d-9e43-44d8-a80e-7b68bda473e6" name="Default Changelist" comment="edit">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms-basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/游戏后台web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/游戏后台web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +51,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../htmlweb-master/htmlweb-master" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../moban4178/moban4178" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,8 +64,23 @@
       <updated>1596019509192</updated>
       <workItem from="1596019510366" duration="1409000" />
       <workItem from="1596024485180" duration="3365000" />
-      <workItem from="1596075816276" duration="19295000" />
+      <workItem from="1596075816276" duration="19454000" />
+      <workItem from="1596162545402" duration="1455000" />
+      <workItem from="1596444249785" duration="2454000" />
+      <workItem from="1596625703976" duration="14000" />
+      <workItem from="1596680659676" duration="5932000" />
+      <workItem from="1596717969184" duration="5000" />
+      <workItem from="1596768304999" duration="863000" />
+      <workItem from="1596770115956" duration="5674000" />
     </task>
+    <task id="LOCAL-00001" summary="edit">
+      <created>1596114200372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596114200372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,17 +91,35 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596094782450">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2698" y="286" key="FileChooserDialogImpl" timestamp="1596707947122">
+      <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596094782450" />
+    <state x="2698" y="286" key="FileChooserDialogImpl/0.0.1920.1040/1982.0.1858.1080@1982.0.1858.1080" timestamp="1596707947122" />
     <state x="823" y="417" key="Github.ShareDialog" timestamp="1596029242783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -86,13 +128,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596029261874" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1596102004346">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1596770089904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596102004346" />
-    <state x="177" y="163" width="1569" height="1027" key="dock-window-1" timestamp="1596114165980">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596770089904" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596114205883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="177" y="163" width="1569" height="1027" key="dock-window-1/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596114165980" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596114205883" />
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596162800533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596162800533" />
+    <state x="177" y="163" width="1569" height="1027" key="dock-window-1" timestamp="1596114326620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="177" y="163" width="1569" height="1027" key="dock-window-1/0.0.1920.1040/1982.0.1858.1080@0.0.1920.1040" timestamp="1596114326620" />
   </component>
 </project>

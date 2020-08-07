@@ -18,5 +18,8 @@
     <orderEntry type="library" name="chartist" level="application" />
     <orderEntry type="library" name="fullcalendar" level="application" />
     <orderEntry type="library" name="weathericons" level="application" />
+    <orderEntry type="library" name="jquery-match-height" level="application" />
+    <orderEntry type="library" name="popper.js" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
 </module>
